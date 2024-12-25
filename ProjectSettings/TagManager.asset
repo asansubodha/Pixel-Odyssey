@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - VictoryPoint
+  - Victory2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enamy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 5
+    uniqueID: 3956242099
+    locked: 0
+  - name: 4
+    uniqueID: 286478911
+    locked: 0
+  - name: 3
+    uniqueID: 3394749777
+    locked: 0
+  - name: 2
+    uniqueID: 2647669053
+    locked: 0
+  - name: 1
+    uniqueID: 2796933461
+    locked: 0
+  - name: Water
+    uniqueID: 3093139551
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 3126689605
+    locked: 0
